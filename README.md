@@ -31,9 +31,3 @@ Because this grid gives you the freedom to make your own layout, you also need t
 ####Browser Support
 
 Because we are going mobile-first, any non-supported browser will still end up with a very usable site, albeit only one column. The biggest problem would be the `box-sizing` property, but IE9 and up support it. 
-
----
-
-### Thanks
-
-Inspired by Zurb Foundation, the abundance of CSS grids, and my love of open source.
