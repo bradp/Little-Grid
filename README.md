@@ -9,9 +9,9 @@ With Little Grid, you can infinitely nest columns. And you don't have to worry a
 
 Anything lower than IE 8, will get a usable 1-column design.
 
-**[View Demo](http://bradp.github.com/little-grid)** 
+**[View Demo](http://internetrockstar.org/little-grid/)** 
 
-###Example
+###Example Usage
 
 ```html
 <div class="row">
