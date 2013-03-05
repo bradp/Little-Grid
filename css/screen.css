@@ -1,6 +1,0 @@
-@import url(http://fonts.googleapis.com/css?family=Fjalla+One);
-@import url(http://fonts.googleapis.com/css?family=Open+Sans);
-body {font-family:"Open Sans","Helvetica Neue", Helvetica, Arial, sans-serif;margin: 0;background-image: url("../bg.png");}a {color: #06f;}h1 {font-family: "Fjalla One", sans-serif;font-size: 2.2em;}h2 {font-family: "Fjalla One", sans-serif;font-size: 1.4em;}h2, h3, h4 {margin-top: 0;}h3, h4 {margin-bottom: 0.5em;}p{font-size: 0.8125em;line-height: 1.5;margin: 0 0 1.5em;}code {font-size: 1.2727em;color: #777;}.container {margin: 0 auto;max-width: 90em;padding: 1em 0;}.footer {padding-top: 1.5em;}.byline {color: #888;}.description {padding-bottom: 1.5em;font-size: 1.5em;}.content {margin-bottom: 1.5em;}
-@media only screen and (min-width: 34em) {p{font-size: 0.875em;}.container {padding: 1em;}h1 {font-size: 2.6em;}h2 {font-size: 1.6em;}}
-@media only screen and (min-width: 54em) {.content {margin-bottom: 0;}h1 {font-size: 3em;}h2 {font-size: 1.7em;}}
-@media only screen and (min-width: 76em) {h1 {font-size: 3.2em;}h2 {font-size: 1.8em;}}
